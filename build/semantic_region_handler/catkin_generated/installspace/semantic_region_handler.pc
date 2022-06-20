@@ -1,0 +1,8 @@
+prefix=/home/vi/map_find_obj/install
+
+Name: semantic_region_handler
+Description: Description of semantic_region_handler
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

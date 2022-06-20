@@ -1,0 +1,43 @@
+-
+	name: shelf1 #or table/bed
+	frameid: map
+	shape: rectangle
+	corner1:
+		x:
+		y:
+		z:
+	corner2:
+		x:
+		y:
+		z:
+	corner3:
+		x:
+		y:
+		z:
+	corner4:
+		x:
+		y:
+		z:
+	orientation: #same as every corner
+		x: 
+		y: 
+		z: 
+		w: 
+	heights: [0.2,0.4,0.6,0.8]
+
+-
+	name: lamp #or plant pot/chair
+	frame_id: map
+	shape: circle
+	radius: 
+	position:
+		x: 
+		y: 
+		z: 0
+	orientation:
+		x: 
+		y: 
+		z: 
+		w: 
+
+-

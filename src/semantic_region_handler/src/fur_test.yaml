@@ -1,0 +1,46 @@
+-
+  name: table1 #or table/bed
+  frame_id: map
+  shape: rectangle
+  corner1:
+    x: -1.862601161
+    y: 2.86388516426
+    z: 0.0
+  corner2:
+    x: -1.86260128021
+    y: 2.02409911156
+    z: 0.0
+  corner3:
+    x: -3.21917843819
+    y: 2.84235239029
+    z: 0.0
+  corner4:
+    x: -3.21917843819
+    y: 2.06716513634
+    z: 12.0
+	robo_pose:
+	    position:
+        x: -3.21917843819
+    y: 2.06716513634
+    z: 12.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
+  heights: [0.2,0.4,0.6,0.8]
+
+-
+  name: lamp #or plant pot/chair
+  frame_id: map
+  shape: circle
+  radius: 0.5
+  position:
+    x: -0.549090325832
+    y: 4.73725318909
+    z: 0.0
+  orientation:
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0
